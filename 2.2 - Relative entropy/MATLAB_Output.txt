@@ -1,0 +1,14 @@
+Mean of p = 0.0000 | Variance of p = 1.0000
+Mean of p^M = 3.0000 | Variance of p^M = 1.0000
+
+Gaussian distributions given by analytic formulae
+Relative entropy:
+Theoretic value: 4.5000
+Numerical value without normalization: 4.5000
+Numerical value with normalization: 4.3844
+
+Gaussian distribution constructed from samples
+Relative entropy:
+Theoretic value: 4.6015
+Numerical value without normalization: Inf
+Numerical value with normalization: 4.6898

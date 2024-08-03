@@ -1,0 +1,2 @@
+Estimated value of the slope parameter a by using least-squares, when y has no uncertainty: 0.7000
+Estimated value of the slope parameter a by using least-squares, when y contains uncertainty (Gaussian with variance r = 10.00): 0.2333

@@ -1,0 +1,9 @@
+Mean of Gaussian = 0.0000 | Variance of Gaussian = 1.0000
+Shannon entropy for the Gaussian distribution N(0.000, 1.000):
+Numerical value: 1.4189
+Theoretical value: 1.4189
+
+Mean of Gamma(2.000, 1.414) = 2.8284 | Variance of Gamma(2.000, 1.414) = 4.0000 | Skewness of Gamma(2.000, 1.414) = 1.4142 | Kurtosis of Gamma(2.000, 1.414) = 3.0000
+Shannon entropy for the Gamma distribution Gamma(2.000, 1.414):
+Numerical value: 1.9233
+Theoretical value: 1.9238
