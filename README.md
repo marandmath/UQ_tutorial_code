@@ -52,7 +52,7 @@ The following Python script files can be found in the respective subdirectories:
  
 The figures that are produced by each script can also be found in the corresponding subdirectory both in .png and MATLAB's .fig figure source format for quick reference. Output files (whenever applicable), for both MATLAB and Python, are also available in .txt format. Finally, the Python module/package requirements for the script file of each section (of the paper's Supporting Document) are also located in each subdirectory with the name "Python_Requirements.txt", and are in a format that is understood by package managers (e.g. pip or conda).
 
-# Citing this work
+# Citing This Work
 
 BibTeX Entry:
 
