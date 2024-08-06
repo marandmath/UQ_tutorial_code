@@ -4,7 +4,7 @@ This repository contains MATLAB and Python code for the paper "Taming Uncertaint
 The MATLAB codebase was tested on version R2020b, while the Python codebase was tested on version 3.10.6.
 
 # Script Files
-The following MATLAB m-file (script) files can be found in the respective subdirectories:
+The following MATLAB m-file (script) files can be found in the respective subdirectories (the numbered sections correspond to the ones found in the Supplementary Document of the paper, which is available in the [arXiv](https://arxiv.org/abs/2408.01823#) version of this work):
 * [2.1 - Shannon's entropy](https://github.com/marandmath/UQ_tutorial_code/tree/main/2.1%20-%20Shannon's%20entropy)
   + Computing_Entropy.m
 * [2.2 - Relative entropy](https://github.com/marandmath/UQ_tutorial_code/tree/main/2.2%20-%20Relative%20entropy)
@@ -28,7 +28,7 @@ The following MATLAB m-file (script) files can be found in the respective subdir
 * [6 - Calibrating Stochastic Models Based on UQ](https://github.com/marandmath/UQ_tutorial_code/tree/main/6%20-%20Calibrating%20Stochastic%20Models%20Based%20on%20UQ)
   + Calibrating_Stochastic_Model_with_UQ.m
 
-The following Python script files can be found in the respective subdirectories:
+The following Python script files can be found in the respective subdirectories (the numbered sections correspond to the ones found in the Supplementary Document of the paper, which is available in the [arXiv](https://arxiv.org/abs/2408.01823#) version of this work):
 * [2.1 - Shannon's entropy](https://github.com/marandmath/UQ_tutorial_code/tree/main/2.1%20-%20Shannon's%20entropy)
   + Computing_Entropy.py
 * [2.2 - Relative entropy](https://github.com/marandmath/UQ_tutorial_code/tree/main/2.2%20-%20Relative%20entropy)
