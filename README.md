@@ -1,6 +1,8 @@
 # UQ_tutorial_code
 This repository contains MATLAB and Python code for the paper "Taming Uncertainty in a Complex World: The Rise of Uncertainty Quantification — A Tutorial for Beginners", by [Nan Chen](https://people.math.wisc.edu/~nchen29/), [Stephen Wiggins](https://scholar.google.com/citations?user=FmdPqIUAAAAJ&hl=en), and [Marios Andreou](https://sites.google.com/wisc.edu/mariosandreou/homepage).
 
+The MATLAB codebase was tested on version R2020b, while the Python codebase was tested on version 3.10.6.
+
 # Script Files
 The following MATLAB m-file (script) files can be found in the respective subdirectories:
 * [2.1 - Shannon's entropy](https://github.com/marandmath/UQ_tutorial_code/tree/main/2.1%20-%20Shannon's%20entropy)
@@ -53,6 +55,8 @@ The following Python script files can be found in the respective subdirectories:
 The figures that are produced by each script can also be found in the corresponding subdirectory both in .png and MATLAB's .fig figure source format for quick reference. Output files (whenever applicable), for both MATLAB and Python, are also available in .txt format. Finally, the Python module/package requirements for the script file of each section (of the paper's Supporting Document) are also located in each subdirectory with the name "Python_Requirements.txt", and are in a format that is understood by package managers (e.g. pip or conda).
 
 # Citing This Work
+
+[[arXiv](https://arxiv.org/abs/2408.01823#)]
 
 BibTeX Entry:
 
