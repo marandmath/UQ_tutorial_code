@@ -67,10 +67,10 @@ ylim([min(x2, [], 'all'), max(x2, [], 'all')])
 subplot(1, 2, 2)
 hold on
 h = plot(dt:dt:N*dt, x2, 'k', 'LineWidth', 0.5);
-h(N+1) = plot(dt:dt:N*dt, mean(x2), 'r', 'LineWidth', 2);
+h(Ens+1) = plot(dt:dt:N*dt, mean(x2), 'r', 'LineWidth', 2);
 box on
 set(gca, 'FontSize', 12)
-legend(h([1, N+1]), {'Ensemble Members', 'Mean Time Series'}, 'FontSize', 14)
+legend(h([1, Ens+1]), {'Ensemble Members', 'Mean Time Series'}, 'FontSize', 14)
 title('(b) x (Initial Condition With Small Uncertainty)', 'FontSize', 18)
 xlabel('t')
 ylabel('x')
