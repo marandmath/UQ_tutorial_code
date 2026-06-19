@@ -68,9 +68,9 @@ BibTeX Entry:
   publisher = "American Mathematical Society (AMS)",
   volume = "72",
   number = "03",
-  pages = "250 - 260",
+  pages = "250-260",
   year = "2025",
-  month = mar,
+  month = "March",
   DOI = "10.1090/noti3120",
   URL = "http://dx.doi.org/10.1090/noti3120"
 }
